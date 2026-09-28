@@ -1,0 +1,6 @@
+"strategy","mean_c"
+"Simple pooled Cox",0.372
+"Ensemble of RSFs",0.492
+"Average of Cox coefficients",0.543
+"Univariable meta‑analysis",0.576
+"Equal‑weight ensemble",0.595

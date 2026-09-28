@@ -1,0 +1,11 @@
+"variable","importance"
+"lymph_nodes_examined_positive",0.0450772992475912
+"tumor_size",0.0169030877694503
+"chemotherapy",0.00769530488694095
+"pam50_._claudin.low_subtype",0.00629152830151015
+"pr_status",0.00573105484663135
+"her2_status",0.00525591775898369
+"neoplasm_histologic_grade",0.00521088382755992
+"er_status",0.00218167820351135
+"hormone_therapy",0.00165233861361498
+"age_at_diagnosis",0.00152672022179864
